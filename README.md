@@ -1,4 +1,4 @@
-### Hi there ! 👋 
+# Hi there ! 👋 I' m HS.
 
 I am trying to become a full-stack developer- 
 that provides services that make the world better.
