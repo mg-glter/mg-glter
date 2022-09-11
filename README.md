@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 # 💻Tech Stack💻
 
+<br />   
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -52,6 +53,7 @@ Here are some ideas to get you started:
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
+<br />   
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
@@ -66,12 +68,13 @@ Here are some ideas to get you started:
 
 # 🤝Projects💪
 
+<br />   
 These are Collaborative Projects Records.
 You can check the repository by clicking on the badge.
   
 <br />    
   
-### CharCha
+## CharCha
 <a href="https://github.com/mulcam-group8">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
@@ -79,7 +82,8 @@ You can check the repository by clicking on the badge.
 차(Tea)를 판매하는 쇼핑몰 미니 프로젝트
 
   
-### Donabit (Donate your Habbit)
+<br />   
+## Donabit (Donate your Habbit)
 <a href="https://github.com/Donabit">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
@@ -87,8 +91,9 @@ You can check the repository by clicking on the badge.
 당신의 습관을 기부하세요! 챌린지를 통해 좋은 습관을 형성하고, 
 참여를 통해 모인 광고 수익은 기부로 이어집니다.
 
-  
-### 먹구름속 무지개 (team Highlife)  
+ 
+<br />    
+## 먹구름속 무지개 (team Highlife)  
 <a href="https://github.com/high-life-Team">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
