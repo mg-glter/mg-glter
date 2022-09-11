@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 # 💻Tech Stack💻
 
-<br />   
+<br />  
+  
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 <br />   
+  
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
@@ -69,6 +71,7 @@ Here are some ideas to get you started:
 # 🤝Projects💪
 
 <br />   
+  
 These are Collaborative Projects Records.
 You can check the repository by clicking on the badge.
   
@@ -78,31 +81,40 @@ You can check the repository by clicking on the badge.
 <a href="https://github.com/mulcam-group8">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
+  
 <br />  
+  
 차(Tea)를 판매하는 쇼핑몰 미니 프로젝트
 
   
 <br />   
+  
 ## Donabit (Donate your Habbit)
 <a href="https://github.com/Donabit">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
+  
 <br />   
+  
 당신의 습관을 기부하세요! 챌린지를 통해 좋은 습관을 형성하고, 
 참여를 통해 모인 광고 수익은 기부로 이어집니다.
 
  
-<br />    
+<br />   
+  
 ## 먹구름속 무지개 (team Highlife)  
 <a href="https://github.com/high-life-Team">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
+  
 <br />   
+  
 먹구름 뒤에는 무지개가 있어요. 
 지친 일상 속 당신의 고민을 기록할 작은 일기장
 
 
-<br />    
+<br />  
+  
 <br />  
   
 </div>
