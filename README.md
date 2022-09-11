@@ -77,7 +77,7 @@ You can check the repository by clicking on the badge.
   
 <br />    
   
-## CharCha
+### CharCha☕
 <a href="https://github.com/mulcam-group8">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
@@ -89,7 +89,7 @@ You can check the repository by clicking on the badge.
   
 <br />   
   
-## Donabit (Donate your Habbit)
+### Donabit🐷 (Donate your Habbit)
 <a href="https://github.com/Donabit">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
@@ -102,7 +102,7 @@ You can check the repository by clicking on the badge.
  
 <br />   
   
-## 먹구름속 무지개 (team Highlife)  
+### 먹구름속 무지개🌈 (team Highlife)  
 <a href="https://github.com/high-life-Team">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
