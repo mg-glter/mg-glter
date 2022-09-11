@@ -1,7 +1,10 @@
 <div align="center">
+  
 # Hi there ! 👋 My name is HS.
 
 
+<br />  
+  
 I am trying to become a full-stack developer- 
 that provides services that make the world better.
 
@@ -27,6 +30,9 @@ Here are some ideas to get you started:
 -->
 
 
+<br />  
+
+<br />    
 
 # 💻Tech Stack💻
 
@@ -54,13 +60,22 @@ Here are some ideas to get you started:
 
 
 
+<br />  
+
+<br />    
 
 # 🤝Projects💪
+
+These are Collaborative Projects Records.
+You can check the repository by clicking on the badge.
+  
+<br />    
   
 ### CharCha
 <a href="https://github.com/mulcam-group8">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
+<br />  
 차(Tea)를 판매하는 쇼핑몰 미니 프로젝트
 
   
@@ -68,15 +83,21 @@ Here are some ideas to get you started:
 <a href="https://github.com/Donabit">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
-당신의 습관을 기부하세요! 챌린지를 통해 좋은 습관을 형성하고, 참여를 통해 모인 광고 수익은 기부로 이어집니다.
+<br />   
+당신의 습관을 기부하세요! 챌린지를 통해 좋은 습관을 형성하고, 
+참여를 통해 모인 광고 수익은 기부로 이어집니다.
 
   
 ### 먹구름속 무지개 (team Highlife)  
 <a href="https://github.com/high-life-Team">
 <img src="https://img.shields.io/badge/-git organization-darkgrey">
 </a>  
-먹구름 뒤에는 무지개가 있어요. 지친 일상 속 당신의 고민을 기록할 작은 일기장
+<br />   
+먹구름 뒤에는 무지개가 있어요. 
+지친 일상 속 당신의 고민을 기록할 작은 일기장
 
+
+<br />    
+<br />  
   
- 
 </div>
