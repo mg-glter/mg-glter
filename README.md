@@ -122,8 +122,6 @@ You can check the repository by clicking on the badge.
   
 <br />   
   오직 SSAFY人만을 위한 1:1 맞춤 취업 멘토링 서비스.
-  쉽고 간편한 매칭 방식으로 원하는 기업, 직무의 선배와
-  원하는 시간에 만나 진솔한 대화를 나눌 수 있어요.
 
 
 <br />  
