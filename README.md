@@ -115,15 +115,16 @@ You can check the repository by clicking on the badge.
   
 <br />   
   
-### 싸피챗🍇 (team BlueberryPie)  
+### SSAFYCHAT🍇 (team BlueberryPie)  
 <a href="https://github.com/mg-glter/SSAFYCHAT">
 <img src="https://img.shields.io/badge/-git-darkgrey">
 </a>  
   
 <br />   
-  
-먹구름 뒤에는 무지개가 있어요. 
-지친 일상 속 당신의 고민을 기록할 작은 일기장  
+  오직 SSAFY人만을 위한 1:1 맞춤 취업 멘토링 서비스.
+  쉽고 간편한 매칭 방식으로 원하는 기업, 직무의 선배와
+  원하는 시간에 만나 진솔한 대화를 나눌 수 있어요.
+
 
 <br />  
   
