@@ -111,7 +111,19 @@ You can check the repository by clicking on the badge.
   
 먹구름 뒤에는 무지개가 있어요. 
 지친 일상 속 당신의 고민을 기록할 작은 일기장
-
+  
+  
+<br />   
+  
+### 싸피챗🍇 (team BlueberryPie)  
+<a href="https://github.com/mg-glter/SSAFYCHAT">
+<img src="https://img.shields.io/badge/-git-darkgrey">
+</a>  
+  
+<br />   
+  
+먹구름 뒤에는 무지개가 있어요. 
+지친 일상 속 당신의 고민을 기록할 작은 일기장  
 
 <br />  
   
